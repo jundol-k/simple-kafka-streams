@@ -1,0 +1,13 @@
+
+simple-kafka-streams/.gradle/
+simple-kafka-streams/build/
+simple-kafka-streams/gradle/
+simple-kafka-streams-join/.gradle/
+simple-kafka-streams-join/build/
+simple-kafka-streams-join/gradle/
+simple-kafka-streams/gradlew
+simple-kafka-streams/gradlew.bat
+simple-kafka-streams-join/gradlew
+simple-kafka-streams-join/gradlew.bat
+simple-kafka-streams-join/.idea/
+simple-kafka-streams/.idea/
