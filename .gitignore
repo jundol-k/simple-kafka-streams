@@ -11,3 +11,6 @@ simple-kafka-streams-join/gradlew
 simple-kafka-streams-join/gradlew.bat
 simple-kafka-streams-join/.idea/
 simple-kafka-streams/.idea/
+simple-kafka-globalktable-join/.gradle/
+simple-kafka-globalktable-join/build/
+simple-kafka-globalktable-join/.idea/
