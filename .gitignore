@@ -14,3 +14,6 @@ simple-kafka-streams/.idea/
 simple-kafka-globalktable-join/.gradle/
 simple-kafka-globalktable-join/build/
 simple-kafka-globalktable-join/.idea/
+processor-api/.gradle/
+processor-api/.idea/
+processor-api/build/
